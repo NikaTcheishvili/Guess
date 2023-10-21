@@ -1,0 +1,9 @@
+export const INITIAL = 'Initial';
+export const HOME = 'Home';
+export const HISTORY = 'History';
+export const HISTORY_SCREEN = 'HistoryScreen';
+export const HOME_SCREEN = 'HomeScreen';
+export const BOARD_SCREEN = 'BoardScreen';
+export const SIGNIN_SCREEN = 'SigninScreen';
+export const SIGNUP_SCREEN = 'SignupScreen';
+export const ROUND_DETAILS_SCREEN = 'RoundDetails';

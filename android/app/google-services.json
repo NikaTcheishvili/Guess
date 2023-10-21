@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270535441298",
+    "project_id": "weather-3e41a",
+    "storage_bucket": "weather-3e41a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270535441298:android:df6b04d74ea0f2eb86df4b",
+        "android_client_info": {
+          "package_name": "com.guess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWrJwMoftdJYJydUE5_ycTYf50EW5P2cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
